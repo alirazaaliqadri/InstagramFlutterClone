@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## UI Design:
-![alt text](https://github.com/alirazaaliqadri/InstagramFlutterClone/blob/main/UI%20Image.png)
+<img src="https://github.com/alirazaaliqadri/InstagramFlutterClone/blob/main/UI%20Image.png" width="350"/>
